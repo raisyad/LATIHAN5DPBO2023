@@ -52,6 +52,7 @@ Menu ketiga (Delete) -> ketika user memilih baris data yang ingin didelete dan k
 ## Dokumentasi
 
 **Insert Data**
+
 <img width="419" alt="SS_1_Insert" src="https://user-images.githubusercontent.com/92106283/226415909-ccf6d78e-6cac-47a8-935f-18e2c069ec98.png">
 
 <img width="194" alt="SS_2_Insert" src="https://user-images.githubusercontent.com/92106283/226415950-bae6ad08-a8e3-4d7b-8341-fec1d331935b.png">
